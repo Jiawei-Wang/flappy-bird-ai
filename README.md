@@ -1,3 +1,3 @@
 # Flappy Bird AI
 
-## Play flappy bird using Genetic Algorithm
+## Play flappy bird using NEAT: Genetic Algorithm with Neural Network

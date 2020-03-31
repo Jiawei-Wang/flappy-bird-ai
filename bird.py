@@ -182,7 +182,7 @@ def main():
     clock = pygame.time.Clock()
 
     score = 0
-
+    
     run = True
     while run:
         clock.tick(30)
